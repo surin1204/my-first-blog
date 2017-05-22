@@ -26,7 +26,7 @@ SECRET_KEY = 'qtmai)s_w-w0qbvg9e0%^sr1nbn*+q-xea*%zf#f*^6dv4d@6*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['surin1204.pythonanywhere.com']
 
 
 # Application definition
